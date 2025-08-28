@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **React.js, React native, MongoDB, JavaScript, Express.js, Node.js**
+- 💬 Ask me about **Flutter, Dart, JavaScript, Firebase**
 
 - 📫 How to reach me **satyam379prasad@gmail.com**
 
